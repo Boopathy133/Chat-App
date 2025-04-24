@@ -8,11 +8,8 @@ A beautifully simple real-time mobile chat app where users can send messages, se
 
 - 🔐 Login with just a username
 - 💬 Real-time messaging
-- ✍️ Typing notifications (like WhatsApp)
 - 🟢 Display online users
 - 📥 Message timestamps
-- 🔁 Auto reconnect on logout
-- 🔴 Logout button (top-right corner)
 - 📱 Clean and responsive UI
 
 ---
