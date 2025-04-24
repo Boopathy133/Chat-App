@@ -27,8 +27,6 @@ A beautifully simple real-time mobile chat app where users can send messages, se
 
 ---
 
-## 📦 Installation
-
 ### 1️⃣ Clone the Repo
 
 ```bash
