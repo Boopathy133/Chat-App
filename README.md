@@ -28,3 +28,7 @@ A beautifully simple real-time mobile chat app where users can send messages, se
 
 ```bash
 https://github.com/Boopathy133/Chat-App.git
+```
+---
+
+![Demo](https://github.com/Boopathy133/Chat-App/blob/127a7593722a7777c078008552084093f963c2b7/assets/Demo-video.mp4)
